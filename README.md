@@ -1,2 +1,3 @@
-# nodejs_express_mongoose
 # 101355699_COMP3123_Assignment1
+
+-- Kaarish Parameswaran
